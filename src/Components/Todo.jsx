@@ -67,7 +67,7 @@ const Todo = () => {
         value={inputValue}
         onChange={(e) => setInputvalue(e.target.value)}
       />
-      <button onClick={addTodo}>ADD TO DO</button>
+      <button onClick={addTodo}>Save Todo</button>
 
       <br />
       <TodoList todos={todos}/>
