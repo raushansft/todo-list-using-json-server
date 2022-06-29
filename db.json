@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "EAT",
+      "status": false
+    },
+    {
+      "title": "sleep",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "code",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "go",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "go",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "market",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
